@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Santiago+Galiano;Desarrollador+Web+Full+Stack;Apasionado+por+la+tecnología&center=true&width=500&height=50" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Santiago+Galiano;Desarrollador+Web+Front-End;Apasionado+por+la+tecnología&center=true&width=500&height=50" />
 </p>
 <p align="center">
   Me encanta cómo la tecnología 🌐 mejora nuestra vida diaria y fomenta la innovación. Mi pasión por la ingeniería de software crece a medida que exploro nuevas herramientas 💻 para construir soluciones prácticas 🛠️.
